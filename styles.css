@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.main{
+    margin-left: 5px;
+}
+label{
+    display: block;
+    margin-top: 10px;
+    
+}
